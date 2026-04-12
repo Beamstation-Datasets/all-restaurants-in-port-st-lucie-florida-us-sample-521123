@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Port St. Lucie, Florida, a growing city of 204k+. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Port St. Lucie, Florida, US",
+  "export_job_id": "7a59c473-21f2-4e01-b2e2-087267b96f20",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 521123,
+  "location_name": "Port St. Lucie",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-port-st-lucie-florida-us-sample-521123",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/521123/beamstation_521123_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 52,
+  "sample_sha256": "7176bdf8758a7c79dfb0e03a9161e2b8c90123c4573d73a8f377fb0c831428b6",
+  "sample_size_bytes": 205430,
+  "total_records": 525,
+  "updated_at": "2026-04-09T17:33:32.610930+00:00"
+}
