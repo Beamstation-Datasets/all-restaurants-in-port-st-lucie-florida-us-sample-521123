@@ -9,9 +9,9 @@
 | Dataset ID | `521123` |
 | Location | Port St. Lucie |
 | Category | Restaurants |
-| Full dataset size | 525 records |
-| Free sample size | 52 records (9.9%) |
-| Last export | 2026-04-09T17:33:32.610930+00:00 |
+| Full dataset size | 523 records |
+| Free sample size | 52 records (9.94%) |
+| Last export | 2026-04-16T20:39:26.567406+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-port-st-lucie-florida-us-sample-521123/releases/download/sample-latest/beamstation_521123_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
