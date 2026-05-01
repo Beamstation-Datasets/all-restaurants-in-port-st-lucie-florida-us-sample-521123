@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a42096cc-1fa8-4960-a278-35c0b05d6579",
+  "export_job_id": "532c2f09-e1c2-46bb-83db-bf694c2d880a",
   "id_short": 521123,
-  "published_at": "2026-04-23T19:47:37Z",
+  "published_at": "2026-05-01T07:09:55Z",
   "repo_name": "all-restaurants-in-port-st-lucie-florida-us-sample-521123",
   "sample_asset_name": "beamstation_521123_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/521123/beamstation_521123_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "ed1015b2d7f1dc09fa5c6c3cd0d5f371c2adc3ee9f646587dfbf958984025257",
-  "sample_size_bytes": 104689,
-  "total_records": 264
+  "sample_records": 53,
+  "sample_sha256": "be18865e7317a65ba4ac5ec5dc4c72c23f4a802460b9c308143dcf78ad7e15b9",
+  "sample_size_bytes": 199540,
+  "total_records": 534
 }
